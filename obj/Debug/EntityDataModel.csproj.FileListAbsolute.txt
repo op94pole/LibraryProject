@@ -1,0 +1,2 @@
+C:\Users\luca9\Source\Repos\ConsoleLibrary\obj\Debug\EntityDataModel.csproj.AssemblyReference.cache
+C:\Users\luca9\Source\Repos\ConsoleLibrary\obj\Debug\EntityDataModel.csproj.CoreCompileInputs.cache

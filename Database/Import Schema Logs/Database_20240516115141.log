@@ -1,0 +1,89 @@
+16/05/2024 13:51:41	This log contains information about the import schema operation into project 'Database' on computer 'IDEAPAD_POLE' by user 'luca9'.
+16/05/2024 13:51:41	Import of database schema has started.
+16/05/2024 13:51:42	Gathering database credentials
+16/05/2024 13:51:42	Gathering database options
+16/05/2024 13:51:42	Gathering generic database scoped configuration option
+16/05/2024 13:51:42	Gathering users
+16/05/2024 13:51:42	Gathering roles
+16/05/2024 13:51:42	Gathering application roles
+16/05/2024 13:51:42	Gathering role memberships
+16/05/2024 13:51:42	Gathering filegroups
+16/05/2024 13:51:42	Gathering full-text catalogs
+16/05/2024 13:51:42	Gathering assemblies
+16/05/2024 13:51:42	Gathering certificates
+16/05/2024 13:51:42	Gathering asymmetric keys
+16/05/2024 13:51:42	Gathering symmetric keys
+16/05/2024 13:51:42	Gathering encrypted symmetric keys
+16/05/2024 13:51:42	Gathering schemas
+16/05/2024 13:51:42	Gathering XML schema collections
+16/05/2024 13:51:42	Gathering user-defined data types
+16/05/2024 13:51:42	Gathering user-defined types
+16/05/2024 13:51:42	Gathering table types
+16/05/2024 13:51:42	Gathering unique keys for table types
+16/05/2024 13:51:42	Gathering primary keys for table types
+16/05/2024 13:51:42	Gathering indexes for table types
+16/05/2024 13:51:42	Gathering check constraints for table types
+16/05/2024 13:51:42	Gathering default constraints for table types
+16/05/2024 13:51:42	Gathering partition functions
+16/05/2024 13:51:42	Gathering partition schemes
+16/05/2024 13:51:42	Gathering functions
+16/05/2024 13:51:42	Gathering encrypted functions
+16/05/2024 13:51:42	Gathering aggregates
+16/05/2024 13:51:42	Gathering procedures
+16/05/2024 13:51:42	Gathering encrypted procedures
+16/05/2024 13:51:42	Gathering tables
+16/05/2024 13:51:42	Gathering primary keys
+16/05/2024 13:51:42	Gathering unique constraints
+16/05/2024 13:51:42	Gathering foreign keys
+16/05/2024 13:51:42	Gathering default constraints
+16/05/2024 13:51:42	Gathering check constraints
+16/05/2024 13:51:42	Gathering views
+16/05/2024 13:51:42	Gathering encrypted views
+16/05/2024 13:51:42	Gathering indexes
+16/05/2024 13:51:42	Gathering statistics
+16/05/2024 13:51:42	Gathering full-text index stoplists
+16/05/2024 13:51:42	Gathering search property lists
+16/05/2024 13:51:42	Gathering search properties
+16/05/2024 13:51:42	Gathering full-text indexes
+16/05/2024 13:51:42	Gathering column store indexes
+16/05/2024 13:51:42	Gathering spatial indexes
+16/05/2024 13:51:42	Gathering XML indexes
+16/05/2024 13:51:42	Gathering Selective XML indexes
+16/05/2024 13:51:42	Gathering encrypted triggers
+16/05/2024 13:51:42	Gathering triggers
+16/05/2024 13:51:42	Gathering encrypted and clr ddl triggers
+16/05/2024 13:51:42	Gathering ddl triggers
+16/05/2024 13:51:42	Creating edge constraints
+16/05/2024 13:51:42	Gathering synonyms
+16/05/2024 13:51:42	Gathering defaults
+16/05/2024 13:51:42	Gathering data constraint uddt bindings
+16/05/2024 13:51:42	Gathering rules
+16/05/2024 13:51:42	Gathering data constraint uddt bindings
+16/05/2024 13:51:42	Gathering message types
+16/05/2024 13:51:42	Gathering queues
+16/05/2024 13:51:42	Gathering contracts
+16/05/2024 13:51:42	Gathering services
+16/05/2024 13:51:42	Gathering event notifications
+16/05/2024 13:51:42	Gathering remote service bindings
+16/05/2024 13:51:42	Gathering broker priorities
+16/05/2024 13:51:42	Gathering signatures
+16/05/2024 13:51:42	Gathering compression options
+16/05/2024 13:51:42	Gathering sequence types
+16/05/2024 13:51:42	Gathering security policies
+16/05/2024 13:51:42	Gather column encryption keys
+16/05/2024 13:51:42	Gathering column master keys
+16/05/2024 13:51:42	Gathering external data sources
+16/05/2024 13:51:42	Gathering external file formats
+16/05/2024 13:51:42	Gathering external tables
+16/05/2024 13:51:42	Gathering XML index compression options
+16/05/2024 13:51:42	Gathering database permissions
+16/05/2024 13:51:42	Gathering extended properties
+16/05/2024 13:51:42	Gathering assemblies
+16/05/2024 13:51:42	Gathering credentials
+16/05/2024 13:51:42	Gathering logins
+16/05/2024 13:51:42	Gathering server audits
+16/05/2024 13:51:43	Scanning project for duplicate elements
+16/05/2024 13:51:43	Finished duplicate element processing
+16/05/2024 13:51:44	Finished importing database.
+16/05/2024 13:51:44	A summary of the import was saved to the following location: C:\Users\luca9\Source\Repos\ConsoleLibrary\Database\Import Schema Logs\Database_20240516115141.log
+16/05/2024 13:51:44	Click Finish to continue...

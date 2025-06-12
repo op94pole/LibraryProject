@@ -1,0 +1,1 @@
+Seconda versione del progetto Biblioteca - Stage Avanade
