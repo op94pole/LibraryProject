@@ -1,3 +1,6 @@
+# LibraryProject - progetto Libreria, stage Avanade Italia
+
+
 Descrizione generale dell’applicazione
 L’esercitazione prevede la creazione di un software gestionale per una biblioteca.
 L’applicazione permetterà di interfacciare l’utente con i contenuti della biblioteca, i quali saranno resi disponibili mediante una banca dati.
